@@ -9,5 +9,7 @@ namespace SistemaGestionEscolar.Data
 
         public DbSet<Estudiante> Estudiantes { get; set; }
         public DbSet<Asignatura> Asignaturas { get; set; }
+        public DbSet<Maestro> Maestros { get; set; }
+
     }
 }
