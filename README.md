@@ -21,7 +21,7 @@ Aplicación web desarrollada con ASP.NET Core MVC (.NET 10), Entity Framework Co
 
 ## Pasos para ejecutar el proyecto
 
-1. Clonar el repositorio y abrir `GestionEscolar.sln` en Visual Studio.
+1. Clonar el repositorio y abrir `SistemaGestionEscolar.sln` en Visual Studio.
 2. Verificar la cadena de conexión en `appsettings.json`:
 
    ```json
