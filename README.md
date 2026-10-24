@@ -10,7 +10,7 @@ Aplicación web desarrollada con ASP.NET Core MVC (.NET 10), Entity Framework Co
 | John Steven Guanotoa Díaz | Maestro |
 | Dylan Joel López Morales | Aula |
 | Shaffik Samir Samandé Mujica | Estudiante |
-| Ronny Adrián Sánchez García | Materia |
+| Ronny Adrián Sánchez García | Asignatura |
 
 ## Requisitos
 
